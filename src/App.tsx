@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <div className="App-header">
         <h1>Print Stream</h1>
-        <img src="http://99.132.123.210:5001/?action=stream" alt="stream" />
+        <img src="http://99.132.123.210:5001/html/cam_pic_new.php" alt="stream" />
       </div>
     </div>
   );
